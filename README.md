@@ -1,1 +1,1 @@
-# freakfinance
+# Contracts used for Freak.Finance
